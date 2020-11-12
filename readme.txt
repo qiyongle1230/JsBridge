@@ -1,37 +1,4 @@
-#JsBridge
-
------
-
-inspired and modified from [this](https://github.com/jacin1/JsBridge) and wechat jsBridge file, with some bugs fix and feature enhancement.
-
-This project make a bridge between Java and JavaScript.
-
-It provides safe and convenient way to call Java code from js and call js code from java.
-
-## Demo
-![JsBridge Demo](https://raw.githubusercontent.com/lzyzsd/JsBridge/master/JsBridge.gif)
-
-## Usage
-
-## JitPack.io
-
-I strongly recommend https://jitpack.io
-
-```groovy
-repositories {
-    // ...
-    maven { url "https://jitpack.io" }
-}
-
-dependencies {
-    compile 'com.github.lzyzsd:jsbridge:1.0.4'
-}
-```
-
-## Use it in Java
-
-add com.github.lzyzsd.jsbridge.BridgeWebView to your layout, it is inherited from WebView.
-
+ÖÐÎÄÎÄµµ
 ### Register a Java handler function so that js can call
 
 ```java
